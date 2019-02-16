@@ -4,6 +4,8 @@ cropping, and transforming the pages of PDF files. It can also add custom data,
 viewing options, and passwords to PDF files.  It can retrieve text and metadata
 from PDFs as well as merge entire files together.
 
+# Changes
+
 What happened to PyPDF2?  Nothing; it's still available at
 https://github.com/mstamy2/PyPDF2.  For various reasons @claird will eventually
 explain, I've simply decided to mark a new "business model" with a
